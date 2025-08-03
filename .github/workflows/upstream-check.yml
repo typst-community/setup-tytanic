@@ -46,5 +46,5 @@ jobs:
           shiroa-version: latest
           allow-prereleases: true
 
-      - name: Run `tytanic --version`
-        run: tytanic --version
+      - name: Run `tt --version`
+        run: tt --version
