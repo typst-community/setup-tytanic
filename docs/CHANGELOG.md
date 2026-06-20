@@ -2,6 +2,7 @@
 ## Highlights
 
 ## Changes
+- Bumped various dependencies
 
 ## Fixes
 
