@@ -38,7 +38,7 @@ format:
 	@echo "{{prompt}} Formatting with prettier in src"
 	@npm run format
 
-# Update the package thumbnail
+# Update the package lock file
 lock:
 	@echo "{{prompt}} Updating npm lockfile"
 	@npm install --package-lock-only
