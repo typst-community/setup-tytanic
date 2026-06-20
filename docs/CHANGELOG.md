@@ -8,6 +8,12 @@
 
 ---
 
+# [v1.1.0](https://github.com/typst-community/setup-tytanic/releases/tag/v1.1.0)
+## Changes
+- Bumped various dependencies
+
+---
+
 # [v1.0.0](https://github.com/typst-community/setup-tytanic/releases/tag/v1.0.0)
 ## Highlights
 This is the first release of `setup-tytanic` a GitHub Action that makes [tytanic] available in your CI.
